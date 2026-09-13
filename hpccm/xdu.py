@@ -36,7 +36,7 @@ PROJECT = 'https://github.com/xdu-project/xdu'
 DIST = '/xdu-dist.tar.gz'      # the one file stage 0 hands to stage 1
 
 # Release tag to install; override with --userarg version=1.2.3
-VERSION = '0.5.1'
+VERSION = '0.5.2'
 
 # hpccm cannot infer a debian: image's distro and warns; ubuntu selects apt.
 DISTRO = 'ubuntu'
